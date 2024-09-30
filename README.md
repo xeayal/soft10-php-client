@@ -62,4 +62,4 @@ To log out from the current WhatsApp session:
 $response = $api->logout();
 ```
 
-https://soft10.az?source=github
+<a href="https://soft10.az?source=github">Get WhatsApp API</a>
