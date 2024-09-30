@@ -62,10 +62,4 @@ To log out from the current WhatsApp session:
 $response = $api->logout();
 ```
 
-# Methods
-
-- sendMessage($reqBody): Sends a message to a single number.
-- checkPhoneWhatsappAvailability($phone): Checks if a phone number is registered on WhatsApp.
-- scan(): Gets a QR code for scanning to log into WhatsApp.
-- checkConnection(): Checks the connection status.
-- logout(): Logs out from the current WhatsApp session.
+https://soft10.az?source=github
