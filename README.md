@@ -24,8 +24,9 @@ To send a message to a single number, use the sendMessage method:
 
 ```php
 $api->sendMessage([
-    'phone' => '1234567890',
-    'message' => 'Hello from Soft10!'
+    'to' => '1234567890',
+    'message' => 'Hello from Soft10!',
+    "fileUrl" => 'http://example.com/file.pdf'
 ]);
 ```
 
